@@ -1,0 +1,33 @@
+\ProvidesPackage{style}
+\usepackage{graphicx,epstopdf}
+\RequirePackage{movie15}
+%\RequirePackage{subfigure}
+\RequirePackage{caption}
+\RequirePackage[document]{ragged2e}
+\RequirePackage{tikz}
+\RequirePackage{lipsum}
+\RequirePackage{background}
+\RequirePackage{transparent}
+\RequirePackage{comment}
+\RequirePackage{eso-pic}
+\RequirePackage{subcaption}
+%\RequirePackage[utf8]{inputenc}
+\RequirePackage{draftwatermark}
+%\RequirePackage{subcaption}
+%\SetWatermarkText{\includegraphics[height=8cm]{helix.jpg}}
+\RequirePackage{gensymb}
+\RequirePackage{hyperref}
+\RequirePackage[spanish]{babel}
+\epstopdfsetup{suffix=}
+\DeclareGraphicsExtensions{.ps}
+\DeclareGraphicsRule{.ps}{pdf}{.pdf}{`ps2pdf -dEPSCrop -dNOSAFER #1 \noexpand\OutputFile}
+%\usetheme{Frankfurt}
+\usetheme{Madrid}
+\usecolortheme{whale}
+\usefonttheme{structuresmallcapsserif}
+\setbeamercovered{transparent} 
+\setbeamertemplate{navigation symbols}{}
+\usepackage{amssymb}
+\decimalpoint
+\newtheorem{definicion}{Definici\'on}
+\newtheorem{teorema}{Teorema}
