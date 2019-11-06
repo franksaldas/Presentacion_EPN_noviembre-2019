@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\beamer@sectionintoc {1}{Campos magn\IeC {\'e}ticos en las afueras de galaxias}{3}{0}{1}
+\beamer@sectionintoc {2}{Cinem\IeC {\'a}tica y Masa de la Galaxia NGC7331}{7}{0}{2}
+\beamer@sectionintoc {3}{Gas ionizado difuso en corrientes de gas cerca de Sgr $A^*$}{10}{0}{3}
+\beamer@sectionintoc {4}{La distribuci\IeC {\'o}n de HI en el halo de la V\IeC {\'\i }a L\IeC {\'a}ctea.}{14}{0}{4}
